@@ -1,9 +1,12 @@
-# Getting Started with Create React App
+# Todo List
+
+[Demo Link](https://jacksonnnnnnnnnnnn.github.io/react-todo-list/)
+
+A simple todo list application
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo Link
-https://jacksonnnnnnnnnnnn.github.io/react-todo-list/
 
 ## Available Scripts
 
